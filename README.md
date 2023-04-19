@@ -7,8 +7,5 @@
     - contains different parsers (json, yaml, toml, pickle)
     - parser_factory_method - function that returns parser by its name
 
-### bin
-- convert - file that handles console interaction
-
 ### tests
 - test_serialization - tests for serialization/deserialization of different function 
