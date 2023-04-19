@@ -1,0 +1,16 @@
+README.md
+setup.py
+mpserializer.egg-info/PKG-INFO
+mpserializer.egg-info/SOURCES.txt
+mpserializer.egg-info/dependency_links.txt
+mpserializer.egg-info/requires.txt
+mpserializer.egg-info/top_level.txt
+serializers/__init__.py
+serializers/serialization.py
+serializers/serializer.py
+serializers/parsers/__init__.py
+serializers/parsers/json_parser.py
+serializers/parsers/parser_factory_method.py
+serializers/parsers/pickle_parser.py
+serializers/parsers/toml_parser.py
+serializers/parsers/yaml_parser.py
